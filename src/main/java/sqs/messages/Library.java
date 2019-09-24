@@ -3,8 +3,15 @@
  */
 package sqs.messages;
 
-public class Library {
-    public boolean someLibraryMethod() {
-        return true;
+
+import static sqs.messages.Receive.receive;
+import static sqs.messages.Send.send;
+
+public class Library
+{
+    public static void main(String[] args)
+    {
+        send();
+        receive();
     }
 }
