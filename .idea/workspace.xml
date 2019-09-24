@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/mongooseVersusCobra" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/songr" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CF-finals_practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../java-fundamentals/basiclibrary" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../java-fundamentals/inheritance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../java-fundamentals/linter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../labs/quotes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pipeline" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tm-lam" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../SpringMVCApps/codefellowship" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../SpringMVCApps/dinosaur" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../SpringMVCApps/taskmaster" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../data-structures-and-algorithms/algorithms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../data-structures-and-algorithms/code401challenges" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../data-structures-and-algorithms/data-structures/graph" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../data-structures-and-algorithms/data-structures/hashtable" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../data-structures-and-algorithms/data-structures/linked-list" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../data-structures-and-algorithms/data-structures/stacksandqueues" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../data-structures-and-algorithms/data-structures/tree" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="815" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
