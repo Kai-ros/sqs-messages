@@ -4,7 +4,6 @@
 package sqs.messages;
 
 
-import static sqs.messages.Receive.receive;
 import static sqs.messages.Send.send;
 
 public class Library
@@ -12,6 +11,5 @@ public class Library
     public static void main(String[] args)
     {
         send();
-        receive();
     }
 }
